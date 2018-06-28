@@ -1,0 +1,1 @@
+# Digit Recognition using 100 units Hidden Layer Neural Network with Truncated Normal Initializer. 97.61% Accuracy. For now only implemented in keras.
